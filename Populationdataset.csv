@@ -1,4 +1,4 @@
-Year ,PopulationType,Population,International_In,International_Out,International_Net,Domestic_In,Domestic_Out,Domestic_Net,,,,,,,,,,,,,,,,,,,,,,,,,
+year ,populationType,population,International_In,International_Out,International_Net,Domestic_In,Domestic_Out,Domestic_Net,,,,,,,,,,,,,,,,,,,,,,,,,
 2011,TotalPopulation,8217475,194729,102326,92403,539756.3744,580107.9545,-40351.5801,,,,,,,,,,,,,,,,,,,,,,,,,
 2012,TotalPopulation,8322248,176340,106165,70175,561701.8014,613399.6732,-51697.8718,,,,,,,,,,,,,,,,,,,,,,,,,
 2013,TotalPopulation,8430984,170054,89571,80483,557673.7458,612701.0212,-55027.2754,,,,,,,,,,,,,,,,,,,,,,,,,
